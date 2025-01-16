@@ -1,0 +1,38 @@
+
+  .description {
+    text-align: center;
+    color: rgba(115, 16, 41);
+    font-size: 1.6em;
+    font-weight: 400;
+    margin: 30px;
+}
+
+.rouge {
+    text-align: center;
+    color: rgb(228, 10, 64);
+    font-size: 1.6em;
+    font-weight: 200;
+    margin-top: -90px;
+}
+
+.description2 {
+    margin: 30px auto;
+    width: 70%;
+    font-size: 1.2rem;
+    text-align: center;
+    background: rgba(185, 107, 42, 0.518);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gallery {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.gallery img {
+    margin: 0 50px;
+    max-width: 200px; 
+    height: auto;
+}
